@@ -1,8 +1,9 @@
-## Hi
+## Hi, my name is David
 
 - 🌱 I’m currently learning - Python
 - 🔭 I’m currently working on projects related to Data Analyst using SQL, Tableau, Excel
 
+## List of my Projects
 INTERACTIVE SALES DASHBOARD – TABLEAU *https://public.tableau.com/app/profile/graham.david5018/viz/Sales_17299529515250/Dashboard1* 
 - Crafted detailed graphs analyzing item sales across diverse categories and states, leading to the identification of top-performing products.
 -	Created innovative data visuals utilizing heat map techniques which highlighted top-performing products by region; these discoveries can guide promotional tactics resulting in increased customer engagement rates.
