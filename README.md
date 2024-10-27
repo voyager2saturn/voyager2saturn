@@ -10,9 +10,9 @@ WORLD LIFE EXPECTANCY EDA - SQL
 
 US HOUSEHOLD INCOME EDA - SQL
 -	Executed thorough data audits resulting in the elimination of over 10 duplicate entries from essential datasets, establishing a solid foundation for accurate analysis of income trends and performance metrics.
--	Identified states with the lowest and highest average incomes, with Puerto Rico ($ 27k) at the lowest and the District of Columbia ($ 90k)  at the highest.
--	Discovered that New Jersey had the highest median income ($ 126k), while Puerto Rico had the lowest ($ 22k). 
--	Found that municipalities had the highest average income of $ 83k among different categories. 
+-	Identified states with the lowest and highest average incomes, with Puerto Rico ($ 27k) at the lowest and the District of Columbia ($90k)  at the highest.
+-	Discovered that New Jersey had the highest median income ($126k), while Puerto Rico had the lowest ($22k). 
+-	Found that municipalities had the highest average income of $83k among different categories. 
 
 <!--
 **voyager2saturn/voyager2saturn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
