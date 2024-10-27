@@ -1,8 +1,3 @@
-## Hi, my name is David
-
-- 🌱 I’m currently learning - Python
-- 🔭 I’m currently working on projects related to Data Analyst using SQL, Tableau, Excel
-
 ## List of my Projects
 INTERACTIVE SALES DASHBOARD – TABLEAU *https://public.tableau.com/app/profile/graham.david5018/viz/Sales_17299529515250/Dashboard1* 
 - Crafted detailed graphs analyzing item sales across diverse categories and states, leading to the identification of top-performing products.
@@ -21,3 +16,7 @@ US HOUSEHOLD INCOME EDA - SQL
 
 <!--
 **voyager2saturn/voyager2saturn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi, my name is David
+
+- 🌱 I’m currently learning - Python
+- 🔭 I’m currently working on projects related to Data Analyst using SQL, Tableau, Excel
