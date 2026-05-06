@@ -14,6 +14,9 @@ US HOUSEHOLD INCOME EDA - SQL
 -	Discovered that New Jersey had the highest median income ($126k), while Puerto Rico had the lowest ($22k). 
 -	Found that municipalities had the highest average income of $83k among different categories. 
 
+![Metrics](/github-metrics.svg)
+
+
 <!--
 **voyager2saturn/voyager2saturn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ## Hi, my name is David
@@ -21,8 +24,4 @@ US HOUSEHOLD INCOME EDA - SQL
 - 🌱 I’m currently learning - Python
 - 🔭 I’m currently working on projects related to Data Analyst using SQL, Tableau, Excel
 
-![GitHub Metrics](https://raw.githubusercontent.com/voyager2saturn/voyager2saturn/main/github-metrics.svg)
 
-![GitHub Metrics](github-metrics.svg)
-
-![GitHub Metrics](https://github.com/voyager2saturn/voyager2saturn/blob/main/github-metrics.svg?raw=true)
