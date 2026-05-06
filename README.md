@@ -20,3 +20,5 @@ US HOUSEHOLD INCOME EDA - SQL
 
 - 🌱 I’m currently learning - Python
 - 🔭 I’m currently working on projects related to Data Analyst using SQL, Tableau, Excel
+
+![Metrics](/github-metrics.svg)
