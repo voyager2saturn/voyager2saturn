@@ -22,9 +22,3 @@ US HOUSEHOLD INCOME EDA - SQL
 - 🔭 I’m currently working on projects related to Data Analyst using SQL, Tableau, Excel
 
 ![Metrics](/github-metrics.svg)
-
-![Metrics](https://github.com/voyager2saturn/voyager2saturn/blob/main/github-metrics.svg)
-
-<p align="center"><img src="/github-metrics.svg" alt="Metrics" width="400"></p>
-
-<p align="left"><img src="https://raw.githubusercontent.com/voyager2saturn/voyager2saturn/main/github-metrics.svg" /></p>
