@@ -16,8 +16,6 @@ US HOUSEHOLD INCOME EDA - SQL
 
 ![Metrics](/github-metrics.svg)
 
-![Metrics2](/metrics.plugin.isocalendar.fullyear.svg)
-
 
 <!--
 **voyager2saturn/voyager2saturn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
