@@ -1,3 +1,5 @@
+![Metrics](/github-metrics.svg)
+
 ## List of my Projects
 INTERACTIVE SALES DASHBOARD – TABLEAU [Sales Dashboard](https://public.tableau.com/app/profile/graham.david/viz/Sales_17299529515250/Dashboard1)
 - Crafted detailed graphs analyzing item sales across diverse categories and states, leading to the identification of top-performing products.
@@ -13,9 +15,6 @@ US HOUSEHOLD INCOME EDA - SQL
 -	Identified states with the lowest and highest average incomes, with Puerto Rico ($ 27k) at the lowest and the District of Columbia ($90k)  at the highest.
 -	Discovered that New Jersey had the highest median income ($126k), while Puerto Rico had the lowest ($22k). 
 -	Found that municipalities had the highest average income of $83k among different categories. 
-
-![Metrics](/github-metrics.svg)
-
 
 <!--
 **voyager2saturn/voyager2saturn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
