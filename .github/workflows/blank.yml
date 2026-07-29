@@ -2,7 +2,9 @@
 name: Metrics
 on:
   # Schedule updates (each hour)
-  schedule: [{cron: "0 * * * *"}]
+  schedule: [{cron: "0 0 1 * *"}]
+  #[{cron: "0 * * * *"}] each hour
+  #[{cron: "0 0 * * 1"}] every Monday
   # Lines below let you run workflow manually and on each commit
   workflow_dispatch:
   push: {branches: ["master", "main"]}
@@ -37,9 +39,9 @@ jobs:
           plugin_notable: yes
           plugin_notable_from: organization
           plugin_notable_types: commit
-          plugin_reactions: yes
-          plugin_reactions_display: absolute
-          plugin_reactions_limit: 200
-          plugin_reactions_limit_discussions: 100
-          plugin_reactions_limit_discussions_comments: 100
-          plugin_reactions_limit_issues: 100
+          #plugin_reactions: yes
+          #plugin_reactions_display: absolute
+          #plugin_reactions_limit: 200
+          #plugin_reactions_limit_discussions: 100
+          #plugin_reactions_limit_discussions_comments: 100
+          #plugin_reactions_limit_issues: 100
