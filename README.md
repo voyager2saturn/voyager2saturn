@@ -18,9 +18,7 @@ US HOUSEHOLD INCOME EDA - SQL
 -	Discovered that New Jersey had the highest median income ($126k), while Puerto Rico had the lowest ($22k). 
 -	Found that municipalities had the highest average income of $83k among different categories. 
 
-<!--
-**voyager2saturn/voyager2saturn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
 ![Metrics](/github-metrics.svg)
 
+<!--
+**voyager2saturn/voyager2saturn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
