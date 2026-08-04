@@ -4,7 +4,7 @@
 
 ## List of my Projects
 [NASA ASTRONAUTS EDA - SQL](https://gist.github.com/voyager2saturn/ca8083d82805101e84e0965f6195e40a)
-- The astronaut dataset spans missions from 1959 to 2009, with an average mission year of 1985, indicating peak activity.
+- The astronaut dataset spans missions from 1959 to 2009, with an average mission year of 1985.
 - Currently, there are 50 active astronauts.
 - Spacewalk experience shows a skew toward lower ranges, with 249 astronauts categorized as below average and 108 as above average based on spacewalk hours.
 - Educational background analysis reveals a strong dominance of STEM fields, particularly Physics (35), Aerospace Engineering (33), Mechanical Engineering (30), Aeronautical Engineering (28), and Electrical Engineering (23). Mathematics (11) and Engineering Science (13) also contribute significantly.
