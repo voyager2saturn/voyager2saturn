@@ -7,7 +7,7 @@
 - The astronaut dataset spans missions from 1959 to 2009, with an average mission year of 1985.
 - Currently, there are 50 active astronauts.
 - Spacewalk experience shows a skew toward lower ranges, with 249 astronauts categorized as below average and 108 as above average based on spacewalk hours.
-- Educational background analysis reveals a strong dominance of STEM fields, particularly Physics (35), Aerospace Engineering (33), Mechanical Engineering (30), Aeronautical Engineering (28), and Electrical Engineering (23). Mathematics (11) and Engineering Science (13) also contribute significantly.
+- Educational background analysis reveals a strong dominance of STEM fields, particularly Physics (35), Aerospace Engineering (33), Mechanical Engineering (30), Aeronautical Engineering (28), and Electrical Engineering (23).
 - Gender distribution is heavily skewed, with 307 male astronauts compared to 50 female astronauts, indicating a more interest from males.
 
 WORLD LIFE EXPECTANCY EDA - SQL	
