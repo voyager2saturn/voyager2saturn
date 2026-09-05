@@ -1,6 +1,6 @@
 ## Hello, my name is David
 - 🌱 I’m currently learning - Data Analytics
-- 🔭 I’m currently working on projects related to SQL, Tableau, Excel
+- 🔭 I’m currently working on projects related to SQL, Excel
 
 ## List of my Projects
 [NASA ASTRONAUTS EDA - SQL](https://gist.github.com/voyager2saturn/ca8083d82805101e84e0965f6195e40a)
